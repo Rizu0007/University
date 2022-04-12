@@ -29,9 +29,11 @@
         android:id="@+id/add"
         android:layout_width="163dp"
         android:layout_height="67dp"
+        android:shadowColor="#3A3030"
         android:text="ADD RECORD"
         tools:igrone="onclick"
         tools:layout_editor_absoluteX="23dp"
+        android:backgroundTint="@color/button_background_color"
         tools:layout_editor_absoluteY="33dp" />
 
     <Button
